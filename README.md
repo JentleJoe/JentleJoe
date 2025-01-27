@@ -3,10 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🌟 Web Developer | Frontend Specialist 🌟
 -----------------
+I am a Frontend Developer proficient in building responsive, user-centric web applications. I am very passionate about creating lasting solutions that not only meet the client's need but also appeals to the user, giving them a lasting experience.
 
 
 ## 💫 About Me:
-I am a Frontend Developer proficient in building responsive, user-centric web applications. I am very passionate about creating lasting solutions that not only meet the client's need but also appeals to the user, giving them a lasting experience.
+- 👨‍💻 Check out [my portfolio](https://joshuaoseghale.vercel.app/)
+- 🌱 I'm currently improving my knowledge in **Backend Development** and simultaneouly learning **Web3, Solidity development**
+- 👯 I'm looking to collaborate on **C, Javascript**
+- 📫 Reach me at **joshuaoseghale01@gmail.com**
+- ⚡ Fun fact: **When I am not coding, I am reading the financial markets**
 
 
 ## 🌐 Socials:
