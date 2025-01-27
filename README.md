@@ -1,4 +1,11 @@
-# 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Joshua Oseghale
+=======================================================================================================================================
+
+🌟 Web Developer | Frontend Specialist 🌟
+-----------------
+
+
+## 💫 About Me:
 I am a Frontend Developer proficient in building responsive, user-centric web applications. I am very passionate about creating lasting solutions that not only meet the client's need but also appeals to the user, giving them a lasting experience.
 
 
