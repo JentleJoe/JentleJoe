@@ -8,7 +8,7 @@ I am a Frontend Developer proficient in building responsive, user-centric web ap
 
 ## 💫 About Me:
 - 👨‍💻 Check out [my portfolio](https://joshuaoseghale.vercel.app/)
-- 🌱 I'm currently improving my knowledge in **Backend Development** and simultaneouly learning **Web3, Solidity development**
+- 🌱 I'm currently improving my knowledge of **Backend Development** and simultaneouly learning **Web3, Solidity development**
 - 👯 I'm looking to collaborate on **C, Javascript**
 - 📫 Reach me at **joshuaoseghale01@gmail.com**
 - ⚡ Fun fact: **When I am not coding, I am reading the financial markets**
