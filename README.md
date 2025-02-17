@@ -1,3 +1,5 @@
+<img width="1834" alt="male readme banner" src="https://github.com/user-attachments/assets/15d5bf70-e965-44ae-b272-64604cd3ea3f" />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Joshua Oseghale
 =======================================================================================================================================
 
